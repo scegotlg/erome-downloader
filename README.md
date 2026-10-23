@@ -15,8 +15,10 @@ Erome Downloader is an online tool for finding, previewing, and downloading indi
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Privacy](#privacy)
 - [Responsible Use](#responsible-use)
+- [Related Tools and Resources](#related-tools-and-resources)
+- [Open Erome Downloader](#open-erome-downloader)
 
-## 🎯Features
+## <a id="features"></a>🎯 Features
 
 | Feature | Description |
 |---|---|
@@ -25,31 +27,25 @@ Erome Downloader is an online tool for finding, previewing, and downloading indi
 | MP3 Audio Output | Get an audio-only version of a supported video. |
 | Video Preview | Play a video before downloading to check that it is the one you want. |
 | Keyword Search | Search for videos by keyword without starting with a direct video URL. |
-| Broad Site Support | Designed to support content from 1,000+ adult video sites,including Pornhub, xHmaster, Redgifs, XNXX, SpankBnag. |
+| Broad Site Support | Designed to support content from 1,000+ adult video sites, including Pornhub, xHamster, RedGIFs, XNXX, and SpankBang. |
 | No Account Required | Use the online Erome video downloader without creating an account. |
 | Ad-Free Experience | Use the Erome download tool without on-page advertisements. |
 
-## 🖼️Screenshots
+## <a id="screenshots"></a>🖼️ Screenshots
 
 ### Online Tool Interface
-
-<!-- Replace this image path with your actual screenshot. -->
 
 ![Erome Downloader online tool interface](assets/erome-downloader-interface.png)
 
 ### Video Preview and Download Options
 
-<!-- Replace this image path with your actual screenshot. -->
-
 ![Video preview and available download options](assets/video-preview-and-quality.png)
 
-### 🔍Keyword Search
-
-<!-- Replace this image path with your actual screenshot. -->
+### Keyword Search
 
 ![Search videos by keyword](assets/keyword-search.png)
 
-## ⚙️How to Use Erome Downloader
+## <a id="how-to-use-erome-downloader"></a>⚙️ How to Use Erome Downloader
 
 1. **Open the tool:** Visit [Erome Downloader](https://usoon.ai/tools/erome-downloader/).
 2. **Find a video:** Paste a video URL or enter a keyword in the search feature.
@@ -58,16 +54,17 @@ Erome Downloader is an online tool for finding, previewing, and downloading indi
 5. **Download:** Follow the on-screen instructions to complete the download.
 
 Available resolutions and output options depend on the source video.
+
 For more detailed instructions, see the [Usage Guide](docs/usage.md).
 
-## 📥Supported Formats and Devices
+## <a id="supported-formats-and-devices"></a>📥 Supported Formats and Devices
 
 ### Output Formats
 
 | Output | Available Options | Notes |
 |---|---|---|
 | MP4 video | 480p, 720p, 1080p | Resolution availability depends on the source. |
-| MP3 audio | 128 kbps, 192 kbps, 320 kbps | Available for supported videos. |
+| MP3 audio | Available when supported | Audio output options depend on the video and tool availability. |
 
 ### Supported Devices
 
@@ -75,7 +72,7 @@ The online tool is designed for desktop and mobile browsers. You do not need to 
 
 Actual availability may vary depending on the browser, network connection, source website, and video.
 
-## ⚠️Limitations
+## <a id="limitations"></a>⚠️ Limitations
 
 Please keep the following limitations in mind:
 
@@ -84,19 +81,20 @@ Please keep the following limitations in mind:
 - **Resolution options may vary:** A particular video may not offer every listed resolution.
 - **Network and IP restrictions may affect access:** If a source website blocks access from your network or IP address, the online tool may be unable to retrieve the video.
 
-## 🔧Troubleshooting
+## <a id="troubleshooting"></a>🔧 Troubleshooting
 
 | Problem | What to Try |
 |---|---|
 | The video URL is not recognized | Check that you copied the correct video page URL and that the source is accessible. |
+| Keyword search returns no results | Try a shorter or more general keyword, or use a supported video URL. |
 | The preview does not play | Reload the page and check whether the source video can be accessed in your browser. |
 | A resolution is missing | Choose from the resolutions actually available for that video. |
 | The download fails | Try again later and check your network connection. The source may also be temporarily unavailable. |
-| Access appears to be blocked | The source website or network may restrict access. Results depend on the cause of the restriction; switching tools does not guarantee a solution. |
+| Access appears to be blocked | The source website or network may restrict access. Switching tools does not guarantee a solution. |
 
 For common download issues and possible solutions, see the [Troubleshooting Guide](docs/troubleshooting.md).
 
-## ❓Frequently Asked Questions
+## <a id="frequently-asked-questions"></a>❓ Frequently Asked Questions
 
 ### Is Erome Downloader free to use?
 
@@ -104,15 +102,15 @@ The Usoon Erome Downloader is available without an account. Check the tool page 
 
 ### Do I need to create an account?
 
-No account is required to use the online Erome downloader tool.
+No account is required to use the online Erome Downloader.
 
 ### Can I download all videos from a username?
 
-No. The online Erome downloader does not support downloading every video from a username or profile in one operation. You need to process each supported video individually.
+No. The online Erome Downloader does not support downloading every video from a username or profile in one operation. You need to process each supported video individually.
 
 ### Can I choose the video resolution?
 
-The Usoon Erome downloader offers 480p, 720p, and 1080p MP4 options when available. The choices depend on the source video.
+The tool offers 480p, 720p, and 1080p MP4 options when available. The choices depend on the source video.
 
 ### Can I download audio instead of video?
 
@@ -126,18 +124,19 @@ The online Erome Downloader is designed to work in mobile as well as desktop bro
 
 The tool's stated privacy practices indicate that it does not keep a download history.
 
-## 🔒Privacy
+## <a id="privacy"></a>🔒 Privacy
 
-The online Erome downloader does not display advertisements, does not require an account, and does not keep a download history. According to the tool's stated privacy practices, downloaded videos are not stored on its server.
+The online Erome Downloader does not display advertisements, does not require an account, and does not keep a download history. According to the tool's stated privacy practices, downloaded videos are not stored on its server.
 
 These statements describe the tool's stated practices and do not imply that no technical data is processed by the website or its hosting providers.
 
-## 💡Responsible Use
+## <a id="responsible-use"></a>💡 Responsible Use
 
 Use Usoon Erome Downloader only for content you are legally permitted to access and download. Respect copyright, privacy rights, applicable laws, and the source website's terms. Do not redistribute content without the necessary rights or permission.
-## 👋Related Tools and Resources
 
-Explore other video download tools and resources from Usoon:
+## <a id="related-tools-and-resources"></a>👋 Related Tools and Resources
+
+Explore other video download tools and resources from Usoon.
 
 ### Video Download Tools
 
@@ -151,8 +150,7 @@ Explore other video download tools and resources from Usoon:
 
 - [Free Porn Sites](https://usoon.ai/porn-sites/free-porn-sites/) - Explore a directory of free porn sites.
 
-
-## 🚀Open Erome Downloader
+## <a id="open-erome-downloader"></a>🚀 Open Erome Downloader
 
 Ready to find and preview a video?
 
