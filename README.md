@@ -2,7 +2,7 @@
 
 Erome Downloader is an online tool for finding, previewing, and downloading individual videos. Paste a supported video URL or search by keyword, check the video before downloading, and choose an available MP4 resolution or MP3 audio output.
 
-**Try it online:** [Erome Downloader](https://usoon.ai/tools/erome-downloader/) [Erome Downloader](https://usoon.ai/tools/erome-downloader/)
+**Try it online:** [Erome Downloader](https://usoon.ai/tools/erome-downloader/)
 
 ![Erome Downloader online tool preview](assets/erome-downloader-preview.jpg)
 
